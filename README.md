@@ -12,6 +12,20 @@ A modern, "SaaS-style" Task Management Dashboard built to demonstrate modern web
 - **Animated Toast Notifications**: Smooth, interactive alerts using `react-hot-toast` for all task modifications.
 - **Local Storage Persistence**: Your tasks, theme, and language preferences are automatically saved in the browser.
 
+## 📸 Screenshots
+
+| Main Dashboard | Dark Mode (Turkish) |
+| :---: | :---: |
+| <img src="screenshots/main_page_screenshot.jpeg" width="400" /> | <img src="screenshots/main_page_dark_mode_turkish_version.jpeg" width="400" /> |
+
+| Create Task | Edit Task |
+| :---: | :---: |
+| <img src="screenshots/creat_new_task_page_screenshot.jpeg" width="400" /> | <img src="screenshots/edit_task_page_screenshot.jpeg" width="400" /> |
+
+| Delete Confirmation | Settings Page |
+| :---: | :---: |
+| <img src="screenshots/delete_task_screenshot.jpeg" width="400" /> | <img src="screenshots/setting_page_screenshot.jpeg" width="400" /> |
+
 ## 🛠️ Tech Stack
 
 - **ReactJS (v19)** - Frontend framework (Functional Components & Hooks like `useState`, `useEffect`, `useMemo`)
